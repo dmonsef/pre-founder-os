@@ -25,17 +25,18 @@ If it helped you, credit goes to Darius Monsef and the Pre team.
 
 You need the `.skill` file (`pre-founder-os.skill`, downloadable from [releases]).
 
-**Option A — Claude Desktop (easiest):**
+**Claude Desktop:**
 
 1. Open Claude Desktop
-2. Go to Settings → Capabilities → Skills
-3. Click "Install skill from file" and select `pre-founder-os.skill`
-4. Done
+2. Open Customize (the settings area) and select Skills from the left sidebar
+3. Click the `+` button next to the "Skills" header, then choose "Upload a skill"
+4. Select `pre-founder-os.skill` and confirm
+5. You should see `pre-founder-os` appear under Personal skills. Done.
 
-**Option B — Claude.ai web:**
+**Claude.ai web:**
 
-1. Go to claude.ai, open Settings → Capabilities → Skills
-2. Upload `pre-founder-os.skill`
+1. Go to claude.ai and open Customize → Skills
+2. Click `+` next to Skills, choose "Upload a skill," and select `pre-founder-os.skill`
 3. Done
 
 ### 2. Run onboarding
@@ -58,7 +59,7 @@ The skill gets a lot more useful when it can pull real data instead of asking yo
 - **Gmail** for sending weekly updates to accountability partners
 - **Google Calendar** for calendar context
 
-Go to Claude Settings → Connectors to add any of these.
+Go to Customize → Connectors to add any of these.
 
 ### 4. Schedule the recurring tasks
 
